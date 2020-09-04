@@ -1,4 +1,4 @@
-// ---
+/* // ---
 // ---
 
 // @import "{{ site.theme }}";
@@ -8,7 +8,7 @@
 //   @include large {
 //     max-width: 64rem;
 //   }
-// }
+// } */
 
 h4 {
   color: green;
