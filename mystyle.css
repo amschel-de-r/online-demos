@@ -10,8 +10,8 @@
 //   }
 // } */
 
-h4 {
-  color: green;
+body {
+  margin: 16px;
 }
 
 .FlexContainerCol{
@@ -22,7 +22,7 @@ h4 {
 }
 
 .FlexContainerCol:not(:last-child) {
-  padding-right: 6rem;
+  padding-right: 2rem;
 }
     	
 .FlexContainer{
